@@ -142,5 +142,5 @@ MIT
 
 ## 🙌 Author
 
-Crafted with logic and recursion by [Your Name] – feel free to star ⭐ or fork 🍜 the repo!
+Crafted with logic and recursion by Shakib Ali @hamamagraphics – feel free to star ⭐ or fork 🍜 the repo!
 
